@@ -482,3 +482,8 @@ footer ul.social_profiles li a,
 	-moz-transition: .2s linear;
 	-o-transition: .2s linear;
 }
+
+
+iframe {
+	border: 1px #e1e0e0 solid;
+	}
