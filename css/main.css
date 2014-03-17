@@ -401,62 +401,6 @@ footer p.rights a{
 
 
 
-footer ul.social_profiles{
-	width: 100%;
-	text-align: center;
-}
-
-footer ul.social_profiles li{
-	display: inline-block;
-}
-
-footer ul.social_profiles li a{
-	width: 40px;
-	height: 40px;
-	margin-right: 16px; 
-	display: inline-block;
-	background: url('../img/sp.png') no-repeat;
-}
-
-footer ul.social_profiles li a:hover{
-	background: url('../img/sp_hover.png') no-repeat;
-}
-
-footer ul.social_profiles .f a{
-	background-position: 0 0;
-}
-	
-footer ul.social_profiles .t a{
-	background-position: -41px 0;
-}
-	
-footer ul.social_profiles .be a{
-	background-position: -82px 0;
-}
-	
-footer ul.social_profiles .d a{
-	background-position: -123px 0;
-}
-
-
-footer ul.social_profiles .f a:hover{
-	background-position: 0 0;
-}
-	
-footer ul.social_profiles .t a:hover{
-	background-position: -41px 0;
-}
-	
-footer ul.social_profiles .be a:hover{
-	background-position: -82px 0;
-}
-	
-footer ul.social_profiles .d a:hover{
-	background-position: -123px 0;
-}
-
-
-
 /*  General CSS*/
 .wrapper{
 	width: 978px;
