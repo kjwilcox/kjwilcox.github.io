@@ -396,7 +396,7 @@ footer p.rights a{
 	font-family: 'LatoBold', 'Helvetica', arial;
 	font-weight: bold;
 	color: #939292;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 
@@ -428,15 +428,19 @@ footer ul.social_profiles li a,
 }
 
 
-iframe {
-	border: 1px #e1e0e0 solid;
-}
-	
-
 .exp {
 	font-family: LatoRegular, Helvetica, arial;
-}
 	
+}
+
+.exp article {
+	padding: 0 180px 0 180px;
+}
+
+.exp h1, .contact h1 {
+	margin-bottom: 0 !important;
+}
+
 .exp h2 {
 font-size: 16px;
 font-weight: bold;
@@ -454,7 +458,7 @@ padding: 3px;
 }
 
 .exp h4 {
-color: rgb(153, 153, 153);
+color: #666;
 font-size: 13px;
 font-style: normal;
 padding: 3px;
@@ -463,5 +467,8 @@ padding: 3px;
 .exp p {
 padding: 3px;
 }
-	
+
+.contactform {
+	margin: 0 auto;
+	}
 	
