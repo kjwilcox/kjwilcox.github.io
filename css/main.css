@@ -472,3 +472,14 @@ padding: 3px;
 	margin: 0 auto;
 	}
 	
+.pictures img {
+	border: 3px #58c93a solid;
+	margin: 4px;
+	margin-top: 10px;
+	}	
+	
+.pictures img:hover {
+	border: 3px #292929 solid;
+
+	}
+	
